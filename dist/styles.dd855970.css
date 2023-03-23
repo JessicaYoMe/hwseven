@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+{
+  test: /\.css$/,
+  use: [
+      'style-loader',
+      'css-loader'
+  ]
+}
+.img {
+  margin-right: 5px;
+  height: 5px;
+  width: 5px;
+}
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
